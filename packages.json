@@ -1,0 +1,28 @@
+{
+  "name": "DiscordBot",
+  "version": "1.0.0",
+  "description": "Discord Bot",
+  "main": "bot.js",
+  "engines": {
+    "node": "8.x",
+    "npm": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaltronCraft-Bots/WIP.git"
+  },
+  "keywords": [
+    "heroku",
+    "discord.js"
+  ],
+  "bugs": {
+    "url": "https://github.com/Maltroncraft-Bots/WIP/issues"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.0"
+  }
+}
